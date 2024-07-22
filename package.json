@@ -1,0 +1,19 @@
+{
+  "name": "sumo-stable",
+  "version": "1.0.0",
+  "description": "An appplication that will feature the different divisions of SUMO with many fun and intesting features for SUMO fans to consume.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "sumo",
+    "wrestling",
+    "stable",
+    "sports",
+    "fantasy",
+    "SumoAPI"
+  ],
+  "author": "Kevin Good",
+  "license": "ISC"
+}
